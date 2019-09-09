@@ -1,0 +1,14 @@
+{
+  "name": "hentaimaster",
+  "version": "0.6.3",
+  "description": "discord bot",
+  "main": "hentaimaster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HentaiMaster",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
